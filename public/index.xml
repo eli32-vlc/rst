@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Atlas Blog</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Atlas Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>POST_1: My first post</title>
+      <link>http://localhost:1313/docs/p1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/p1/</guid>
+      <description>&lt;p&gt;So turns out that a new DPI firewall was deployed last night. From rumors that spread, they think China outsourced the firewall to us.&lt;/p&gt;&#xA;&lt;p&gt;So all my WireGuard and OpenVPN just dropped.&lt;/p&gt;&#xA;&lt;p&gt;I need a new way to access GitHub and finish all my dev work and research on human rights.&lt;/p&gt;&#xA;&lt;p&gt;I am sending this to my friend using physical mail. I had to encrypt everything in PGP first; it also compresses the text, btw.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
